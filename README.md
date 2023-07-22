@@ -21,10 +21,8 @@ Tools I use: <br />
 Some of my profects:
 <br />
 <br />
-<div style="display: flex; justify-content: space-around">
-<a href="https://saymusher.github.io/uber7/"><img width="400px" src="https://raw.githubusercontent.com/SayMusher/SayMusher/main/image-1.JPG" /><br />https://saymusher.github.io/uber7</a>
-<a href="https://saymusher.github.io/pulso/"><img width="400px" src="https://raw.githubusercontent.com/SayMusher/SayMusher/main/image-1.JPG" /><br />https://saymusher.github.io/pulso</a>
-</div>
+<a href="https://saymusher.github.io/uber7/"><img width="400px" style="border-radius: 20px" src="https://raw.githubusercontent.com/SayMusher/SayMusher/main/image-1.JPG" /><br />https://saymusher.github.io/uber7</a>
+<a href="https://saymusher.github.io/pulso/"><img width="400px" style="border-radius: 20px" src="https://raw.githubusercontent.com/SayMusher/SayMusher/main/image-1.JPG" /><br />https://saymusher.github.io/pulso</a>
 
 
 

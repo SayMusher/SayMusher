@@ -18,7 +18,7 @@ Tools I use: <br />
 
 #
 
-<img align="left" width="60px" style="padding-right=20px;" src="https://fontawesomeicons.com/svg/icons/toolbox" />
+<img align="left" width="60px" style="padding-right=20px;" src="https://cdnjs.cloudflare.com/ajax/libs/sw-toolbox/3.6.1/sw-toolbox.js" />
 
 
 

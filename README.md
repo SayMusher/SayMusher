@@ -2,7 +2,7 @@
 
 **`Web Developer`**
 
-I am a front-end developer. my work consist in taking a design and give life to it, make it work!. I am very passionate about my work, I just love it! My projects are done with meticulous precision, hard work and discipline.
+I am a front-end developer, and my main responsibility is bringing designs to life by making them functional and interactive. I am incredibly passionate about my work and find great joy in what I do. Each of my projects is executed with meticulous precision, requiring hard work and discipline to ensure the best possible outcomes.
 
 ---
 
@@ -32,7 +32,7 @@ Some of my profects:
   <summary>
     <h3>Say's Coding Journey</h3>
   </summary>
-  I first started learning when I was 16. It was a whole new world to me. Despite the fact that a loved it, I didn't see coding as a job oportunity. Years going, I was getting better and better. So a few months ago I decided to change the way a approached programming, and  made some projects for my portfolio, in order to get a job
+ I began my journey into coding at the age of 16, and it felt like stepping into a whole new world. Although I loved it, I didn't initially see coding as a potential career opportunity. As the years passed, my skills improved steadily. Recently, a few months ago, I made a significant decision to change my approach to programming. I created several projects to showcase in my portfolio, with the goal of securing a job in the field.
 </details>
 
 #

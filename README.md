@@ -30,7 +30,7 @@ Some of my profects:
 
 <details>
   <summary>
-    ## Say's Coding Journey
+    <h3>Say's Coding Journey</h3>
   </summary>
   I first started learning when I was 16. It was a whole new world to me. Despite the fact that a loved it, I didn't see coding as a job oportunity. Years going, I was getting better and better. So a few months ago I decided to change the way a approached programming, and  made some projects for my portfolio, in order to get a job
 </details>

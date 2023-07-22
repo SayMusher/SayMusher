@@ -19,7 +19,7 @@ Tools I use: <br />
 #
 
 Some of my profects:
-<a style="background-image: url('https://github.com/SayMusher/SayMusher/assets/127315797/3bf9445c-fa68-4975-a7f0-d389c25b51fc')" width="400px" href="https://saymusher.github.io/pulso/"></a>
+<a width="400px" href="https://saymusher.github.io/pulso/"><img src="./image-1.jpg" /></a>
 
 
 

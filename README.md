@@ -18,7 +18,9 @@ Tools I use: <br />
 
 #
 
-<img align="left" width="60px" style="padding-right=20px;" src="https://cdnjs.cloudflare.com/ajax/libs/sw-toolbox/3.6.1/sw-toolbox.js" />
+Some of my profects:
+https://saymusher.github.io/uber7/
+https://saymusher.github.io/pulso/
 
 
 

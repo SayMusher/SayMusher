@@ -21,10 +21,10 @@ Tools I use: <br />
 Some of my profects:
 <br />
 <br />
-<a href="https://saymusher.github.io/pulso/"><img width="600px" src="https://github.com/SayMusher/SayMusher/blob/main/Image%201.JPG?raw=true" /><br />https://saymusher.github.io/pulso</a>
+<a target="_blank" href="https://saymusher.github.io/pulso/"><img width="600px" src="https://github.com/SayMusher/SayMusher/blob/main/Image%201.JPG?raw=true" /><br />https://saymusher.github.io/pulso</a>
 <br />
 <br />
-<a href="https://saymusher.github.io/uber7/"><img width="600px" src="https://raw.githubusercontent.com/SayMusher/SayMusher/main/image-1.JPG" /><br />https://saymusher.github.io/uber7</a>
+<a target="_blank" href="https://saymusher.github.io/uber7/"><img width="600px" src="https://raw.githubusercontent.com/SayMusher/SayMusher/main/image-1.JPG" /><br />https://saymusher.github.io/uber7</a>
 
 ---
 

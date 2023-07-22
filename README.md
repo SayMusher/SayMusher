@@ -19,7 +19,7 @@ Tools I use: <br />
 #
 
 Some of my profects:
-<a href="https://saymusher.github.io/pulso/"><img src="https://www.upwork.com/att/download/portfolio/persons/uid/1328148729752432640/profile/projects/files/329ffcc3-5f07-4a2d-9fa4-cff0bbcaff2e" /></a>
+<a href="https://saymusher.github.io/pulso/"><img src="" /></a>
 
 
 

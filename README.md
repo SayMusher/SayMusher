@@ -26,6 +26,15 @@ Some of my profects:
 <br />
 <a href="https://saymusher.github.io/uber7/"><img width="600px" src="https://raw.githubusercontent.com/SayMusher/SayMusher/main/image-1.JPG" /><br />https://saymusher.github.io/uber7</a>
 
+---
+
+<details>
+  <summary>
+    ## Say's Coding Journey
+  </summary>
+  I first started learning when I was 16. It was a whole new world to me. Despite the fact that a loved it, I didn't see coding as a job oportunity. Years going, I was getting better and better. So a few months ago I decided to change the way a approached programming, and  made some projects for my portfolio, in order to get a job
+</details>
+
 
 
 
